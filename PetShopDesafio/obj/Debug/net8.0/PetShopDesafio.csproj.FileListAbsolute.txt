@@ -1,0 +1,15 @@
+C:\Users\Fernanda\source\repos\PetShopDesafio\PetShopDesafio\bin\Debug\net8.0\PetShopDesafio.exe
+C:\Users\Fernanda\source\repos\PetShopDesafio\PetShopDesafio\bin\Debug\net8.0\PetShopDesafio.deps.json
+C:\Users\Fernanda\source\repos\PetShopDesafio\PetShopDesafio\bin\Debug\net8.0\PetShopDesafio.runtimeconfig.json
+C:\Users\Fernanda\source\repos\PetShopDesafio\PetShopDesafio\bin\Debug\net8.0\PetShopDesafio.dll
+C:\Users\Fernanda\source\repos\PetShopDesafio\PetShopDesafio\bin\Debug\net8.0\PetShopDesafio.pdb
+C:\Users\Fernanda\source\repos\PetShopDesafio\PetShopDesafio\obj\Debug\net8.0\PetShopDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda\source\repos\PetShopDesafio\PetShopDesafio\obj\Debug\net8.0\PetShopDesafio.AssemblyInfoInputs.cache
+C:\Users\Fernanda\source\repos\PetShopDesafio\PetShopDesafio\obj\Debug\net8.0\PetShopDesafio.AssemblyInfo.cs
+C:\Users\Fernanda\source\repos\PetShopDesafio\PetShopDesafio\obj\Debug\net8.0\PetShopDesafio.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\source\repos\PetShopDesafio\PetShopDesafio\obj\Debug\net8.0\PetShopDesafio.dll
+C:\Users\Fernanda\source\repos\PetShopDesafio\PetShopDesafio\obj\Debug\net8.0\refint\PetShopDesafio.dll
+C:\Users\Fernanda\source\repos\PetShopDesafio\PetShopDesafio\obj\Debug\net8.0\PetShopDesafio.pdb
+C:\Users\Fernanda\source\repos\PetShopDesafio\PetShopDesafio\obj\Debug\net8.0\PetShopDesafio.genruntimeconfig.cache
+C:\Users\Fernanda\source\repos\PetShopDesafio\PetShopDesafio\obj\Debug\net8.0\ref\PetShopDesafio.dll
+C:\Users\Fernanda\source\repos\PetShopDesafio\PetShopDesafio\obj\Debug\net8.0\PetShopDesafio.sourcelink.json
